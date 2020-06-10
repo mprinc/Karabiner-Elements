@@ -43,7 +43,7 @@
                     </connections>
                 </menuItem>
                 <menuItem isSeparatorItem="YES" id="t9I-dd-l5G"/>
-                <menuItem title="Quit Karabiner-Elements" id="lHD-gf-yxO">
+                <menuItem title="Затвори Karabiner-Elements" id="lHD-gf-yxO">
                     <modifierMask key="keyEquivalentModifierMask"/>
                     <connections>
                         <action selector="quitKarabiner:" target="mfy-Mo-ZtT" id="PIY-MC-k6y"/>
