@@ -1879,7 +1879,10 @@
                                                         <rect key="frame" x="77" y="10" width="828" height="128"/>
                                                         <textFieldCell key="cell" sendsActionOnEndEditing="YES" id="pVM-zu-tB2">
                                                             <font key="font" metaFont="menu"/>
-                                                            <string key="title">You usually don't need to change the Country Code value.
+                                                            <string key="title">
+                                                            ВАП ПЕДАЛА! :)
+
+                                                            You usually don't need to change the Country Code value.
 
 This value is related to the keyboard layout (ANSI, ISO and JIS) on macOS.
 macOS remembers the chosen keyboard layout with vendor id, product id and country code of the device.
